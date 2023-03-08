@@ -7,3 +7,10 @@ body {
 h1 {
     color: rgb(255, 162, 0);
 }
+
+img{
+    /*Empêche l'image d'être pls grand que la page
+     */
+    max-width: 100%;
+
+}
